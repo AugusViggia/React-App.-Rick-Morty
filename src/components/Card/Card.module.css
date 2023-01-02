@@ -1,0 +1,40 @@
+.divCard{
+    border: 5px solid black;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonDiv{
+}
+
+.button{
+    background-color: lightgray;
+}
+
+.button:hover{
+    background-color: red;
+}
+
+.nameTit{
+
+}
+
+.specieTit{
+
+}
+
+.genderTit{
+
+}
+
+.imgDiv{
+
+}
+
+.img{
+    border-radius: 20px;
+    height: fit-content;
+    width: fit-content;
+}
+

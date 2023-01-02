@@ -1,0 +1,12 @@
+.App {
+   background-image: url('8f8471d17fb1cc0272c4c6012f461e38.jpg');
+   border: 10px dashed black;
+   flex-direction: column;
+   display: flex;
+   padding: 10px;
+}
+
+.container{
+   border: 10px dotted black;
+
+}
